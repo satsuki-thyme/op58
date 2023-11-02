@@ -46,33 +46,40 @@ logline:
 
 
 character:
-  - name: 
+  - name: ルクス
     charm:
-      - 
+      - 人ったらし
+      - シリアスから少しコミカル寄り
+      - 人並みに悩んだりする
+      - 人間っぽい
     desire:
-      - 
+      - 広い世界を知りたい
     conflict: # desire に対する衝突
-      - 
+      - 行く手を阻む問題や敵
     harmony: # charm が調和するポイント
-      - 
+      - 起こる物事に心情的な揺れが出る
     right choice:
-      - 
+      - 健全で誠実な選択
     wrong choice:
-      - 
+      - 情に流される
 
-  - name: 
+  - name: エルザ
     charm:
-      - 
+      - 明るい
+      - シリアスから少しおバカ寄り
+      - どっしりしている
+      - 母性
     desire:
-      - 
+      - ルクスとともにいろいろな経験をしたい
     conflict: # desire に対する衝突
-      - 
+      - 襲ってくる敵や問題
     harmony: # charm が調和するポイント
-      - 
+      - ムードメーカー
+      - ルクスの下支え
     right choice:
-      - 
+      - 感覚的、直感的、感情的、理屈に縛られない柔軟な姿勢
     wrong choice:
-      - 
+      - 大雑把
 
   - name: 
     charm:
