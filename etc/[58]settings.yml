@@ -148,8 +148,206 @@ character:
           trauma: |
 
 
+ ######      ######     #######    #######    ######     ##     #####  
+ ##   ##    ##    ##    ##         ##         ##   ##    ##    ##   ## 
+ ######     ##    ##    #######    #####      ######     ##    ####### 
+ ##   ##    ##    ##         ##    ##         ##   ##    ##    ##   ## 
+ ##   ##     ######     #######    #######    ##   ##    ##    ##   ## 
 
 
+
+    - name: ロゼリア
+      characteristics:
+        name:
+          formal name: 
+          nick name: ロゼリー
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+ ######     #######    ##         ##     ###### 
+ ##   ##    ##         ##         ##    ##      
+ ##   ##    #####      ##         ##    ##      
+ ##   ##    ##         ##         ##    ##      
+ ######     #######    #######    ##     ###### 
+
+
+    - name: デリック
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+            大男
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+ #######    #######    ##         #######    ####### 
+ ##         ##         ##         ##         ##      
+ #######    #####      ##         #####      ####### 
+      ##    ##         ##         ##              ## 
+ #######    #######    #######    #######    ####### 
+
+
+    - name: セレス
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
 
 
     - name: 
@@ -212,8 +410,64 @@ character:
           trauma: |
 
 
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
 
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
 
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
 
 
     - name: 
@@ -276,8 +530,64 @@ character:
           trauma: |
 
 
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
 
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
 
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
 
 
     - name: 
@@ -338,6 +648,286 @@ character:
                 - 
         etc:
           trauma: |
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  ######         ###       ##          ########     ##     ##    ########  
+ ##    ##       ## ##      ##          ##     ##    ##     ##    ##     ## 
+ ##            ##   ##     ##          ##     ##    ##     ##    ##     ## 
+ ##   ####    ##     ##    ##          ##     ##    ##     ##    ########  
+ ##    ##     #########    ##          ##     ##    ##     ##    ##   ##   
+ ##    ##     ##     ##    ##          ##     ##    ##     ##    ##    ##  
+  ######      ##     ##    ########    ########      #######     ##     ## 
+
+
+galdur:
+  index:
+    - 
+  
+  entry:
+    - name: スイーク・ウェア・ウッツ
+      description:
+        - ガーネットの光が女の周囲を駆け巡る
+        - ルクスの魔法力が血液に作用している。青ざめていた女の表情に赤みが差した
+        - 造血、酸素供給、血液循環を行う魔法
+
+    - name: アル・アルス・フェリア・フェルズワース
+      description:
+        - エメラルドの輝きが腹部を包む
+        - 直接的な治癒の魔法ではない。｜膿《うみ》が出ないようにするものだ。中でも最上級を示す｜鍵言《けんげん》だった。血にぬめった手を引き抜いて傷口にあてがう
+        - 殺菌魔法
+
+    - name: ラーズ・ウル・ラーズ・ロムスレート・レキサエニク
+      description:
+        - サファイアの｜閃光《せんこう》が｜弾《はじ》けた。ルクスが手を離すと傷は塞がっていた
+        - 怪我の治療魔法
+
+    - name: ゼルク
+      description:
+        - 女の体が跳ねる
+        - 電気ショックの魔法
+
+
+
 
 
  ####    ########    ########    ##     ## 
@@ -358,4 +948,5 @@ item:
       owner: ルクス
       description:
         - 
+
 
