@@ -1,337 +1,361 @@
+  ######     ##     ##       ###       ########        ###        ######     ########    ########    ########  
+ ##    ##    ##     ##      ## ##      ##     ##      ## ##      ##    ##       ##       ##          ##     ## 
+ ##          ##     ##     ##   ##     ##     ##     ##   ##     ##             ##       ##          ##     ## 
+ ##          #########    ##     ##    ########     ##     ##    ##             ##       ######      ########  
+ ##          ##     ##    #########    ##   ##      #########    ##             ##       ##          ##   ##   
+ ##    ##    ##     ##    ##     ##    ##    ##     ##     ##    ##    ##       ##       ##          ##    ##  
+  ######     ##     ##    ##     ##    ##     ##    ##     ##     ######        ##       ########    ##     ## 
+
+
 character:
-  - index:
+  index:
     - 
 
 
- ##          ##     ##    ##     ## 
- ##          ##     ##     ##   ##  
- ##          ##     ##      ## ##   
- ##          ##     ##       ###    
- ##          ##     ##      ## ##   
- ##          ##     ##     ##   ##  
- ########     #######     ##     ## 
+  entry:
+
+ ##         ##    ##    ##   ## 
+ ##         ##    ##     ## ##  
+ ##         ##    ##      ###   
+ ##         ##    ##     ## ##  
+ #######     ######     ##   ## 
 
 
-  - name: ルクス
-    characteristics:
-      name:
-        formal name: 
-        nick name: 
-        popular name: 
-        origin of first name: 
-        origin of family name: 
-        origin of nick name: 
-        origin of popupar name: 
-      inherent:
-        race: 
-        gender: 
-        age: 
-      physical:
-        outline: |
+    - name: ルクス
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
 
-        height: 
-        weight:
-        hair color:  
-        hair style: 
-        eyes: 
-        3 size:
-          bust: 
-          west: 
-          hip: 
-      personality:
-        outline: |
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
 
-        features:
-          - 
-          - 
-          - 
-          - 
-      history:
-        parents:
-          father: 
-          mother: 
-          grand father:
+          features:
             - 
             - 
-          grand mother:
             - 
             - 
-        birth: 
-        growing environment: |
-
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
-        contacts:
-          - name: 
-            relationship: 
-            episodes:
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
               - 
-      etc:
-        trauma: |
-
-
-
- ########    ##          ########       ###    
- ##          ##               ##       ## ##   
- ##          ##              ##       ##   ##  
- ######      ##             ##       ##     ## 
- ##          ##            ##        ######### 
- ##          ##           ##         ##     ## 
- ########    ########    ########    ##     ## 
-
-
-
-  - name: エルザ
-    characteristics:
-      name:
-        formal name: 
-        nick name: 
-        popular name: 
-        origin of first name: 
-        origin of family name: 
-        origin of nick name: 
-        origin of popupar name: 
-      inherent:
-        race: 
-        gender: 
-        age: 
-      physical:
-        outline: |
-
-        height: 
-        weight:
-        hair color:  
-        hair style: 
-        eyes: 
-        3 size:
-          bust: 
-          west: 
-          hip: 
-      personality:
-        outline: |
-
-        features:
-          - 
-          - 
-          - 
-          - 
-      history:
-        parents:
-          father: 
-          mother: 
-          grand father:
-            - 
-            - 
-          grand mother:
-            - 
-            - 
-        birth: 
-        growing environment: |
-
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
-        contacts:
-          - name: 
-            relationship: 
-            episodes:
               - 
-      etc:
-        trauma: |
-
-
-
-
-
-
-  - name: 
-    characteristics:
-      name:
-        formal name: 
-        nick name: 
-        popular name: 
-        origin of first name: 
-        origin of family name: 
-        origin of nick name: 
-        origin of popupar name: 
-      inherent:
-        race: 
-        gender: 
-        age: 
-      physical:
-        outline: |
-
-        height: 
-        weight:
-        hair color:  
-        hair style: 
-        eyes: 
-        3 size:
-          bust: 
-          west: 
-          hip: 
-      personality:
-        outline: |
-
-        features:
-          - 
-          - 
-          - 
-          - 
-      history:
-        parents:
-          father: 
-          mother: 
-          grand father:
-            - 
-            - 
-          grand mother:
-            - 
-            - 
-        birth: 
-        growing environment: |
-
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
-        contacts:
-          - name: 
-            relationship: 
-            episodes:
+            grand mother:
               - 
-      etc:
-        trauma: |
-
-
-
-
-
-
-  - name: 
-    characteristics:
-      name:
-        formal name: 
-        nick name: 
-        popular name: 
-        origin of first name: 
-        origin of family name: 
-        origin of nick name: 
-        origin of popupar name: 
-      inherent:
-        race: 
-        gender: 
-        age: 
-      physical:
-        outline: |
-
-        height: 
-        weight:
-        hair color:  
-        hair style: 
-        eyes: 
-        3 size:
-          bust: 
-          west: 
-          hip: 
-      personality:
-        outline: |
-
-        features:
-          - 
-          - 
-          - 
-          - 
-      history:
-        parents:
-          father: 
-          mother: 
-          grand father:
-            - 
-            - 
-          grand mother:
-            - 
-            - 
-        birth: 
-        growing environment: |
-
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
-        contacts:
-          - name: 
-            relationship: 
-            episodes:
               - 
-      etc:
-        trauma: |
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
 
 
+ #######    ##         #######     #####  
+ ##         ##            ###     ##   ## 
+ #####      ##           ###      ####### 
+ ##         ##          ###       ##   ## 
+ #######    #######    #######    ##   ## 
 
 
+    - name: エルザ
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
 
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
 
-  - name: 
-    characteristics:
-      name:
-        formal name: 
-        nick name: 
-        popular name: 
-        origin of first name: 
-        origin of family name: 
-        origin of nick name: 
-        origin of popupar name: 
-      inherent:
-        race: 
-        gender: 
-        age: 
-      physical:
-        outline: |
-
-        height: 
-        weight:
-        hair color:  
-        hair style: 
-        eyes: 
-        3 size:
-          bust: 
-          west: 
-          hip: 
-      personality:
-        outline: |
-
-        features:
-          - 
-          - 
-          - 
-          - 
-      history:
-        parents:
-          father: 
-          mother: 
-          grand father:
+          features:
             - 
             - 
-          grand mother:
             - 
             - 
-        birth: 
-        growing environment: |
-
-        pre-independence affaiers:
-          - 
-        post-independence affaiers:
-          - 
-        contacts:
-          - name: 
-            relationship: 
-            episodes:
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
               - 
-      etc:
-        trauma: |
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
 
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+
+
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+
+
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+
+
+
+
+    - name: 
+      characteristics:
+        name:
+          formal name: 
+          nick name: 
+          popular name: 
+          origin of first name: 
+          origin of family name: 
+          origin of nick name: 
+          origin of popupar name: 
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+ ####    ########    ########    ##     ## 
+  ##        ##       ##          ###   ### 
+  ##        ##       ##          #### #### 
+  ##        ##       ######      ## ### ## 
+  ##        ##       ##          ##     ## 
+  ##        ##       ##          ##     ## 
+ ####       ##       ########    ##     ## 
+
+
+item:
+  index:
+    - ナザリアの指輪
+
+  entry:
+    - name: ナザリアの指輪
+      owner: ルクス
+      description:
+        - 
 
