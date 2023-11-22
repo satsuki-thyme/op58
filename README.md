@@ -15,3 +15,4 @@
 - thinking-notes/[58]thinking-notes-003.md:  主人公のキャラ設定
 - thinking-notes/[58]thinking-notes-004.md:  第2話の企画
 - thinking-notes/[58]thinking-notes-005.yml: 第2話のプロット
+- thinking-notes/[58]thinking-notes-006.md:  神と信仰、対立
