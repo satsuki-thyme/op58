@@ -311,7 +311,7 @@ character:
           weight:
           hair color:  
           hair style: 
-          eyes: 
+          eyes: アイスブルー
           3 size:
             bust: 
             west: 
@@ -410,16 +410,23 @@ character:
           trauma: |
 
 
-    - name: 
+ ######     ##    ##    ##    ##    ###    ###     ######     ###    ##    ##    ####### 
+ ##   ##     ##  ##     ##    ##    ####  ####    ##    ##    ####   ##    ##    ##      
+ ##   ##      ####      ##    ##    ## #### ##    ##    ##    ## ##  ##    ##    ####### 
+ ##   ##       ##       ##    ##    ##  ##  ##    ##    ##    ##  ## ##    ##         ## 
+ ######        ##        ######     ##      ##     ######     ##   ####    ##    ####### 
+
+
+    - name: デュモニス
       characteristics:
         name:
-          formal name: 
-          nick name: 
-          popular name: 
-          origin of first name: 
-          origin of family name: 
-          origin of nick name: 
-          origin of popupar name: 
+          formal name: デュモニス・レ゠ケラフィナ
+          nick name: デュモネ
+          popular name: デュモニス
+          origin of first name: 思い付き
+          origin of family name: 思い付き
+          origin of nick name: 思い付き
+          origin of popupar name: 思い付き
         inherent:
           race: 
           gender: 
@@ -927,7 +934,34 @@ galdur:
         - 電気ショックの魔法
 
 
+ ########     ##             ###        ######     ######## 
+ ##     ##    ##            ## ##      ##    ##    ##       
+ ##     ##    ##           ##   ##     ##          ##       
+ ########     ##          ##     ##    ##          ######   
+ ##           ##          #########    ##          ##       
+ ##           ##          ##     ##    ##    ##    ##       
+ ##           ########    ##     ##     ######     ######## 
 
+
+place:
+  index:
+    - 里
+    - アラクトス山
+    - レザンダの街
+    - アルノーの街
+
+  entry:
+    - name: 里
+      description:
+        - ルクスたちが生まれ育った場所
+        - 大陸西部の大森林の向こうにある
+
+    - name: アラクトス山
+      description:
+        - アラクトス信仰の神々が住む山
+
+    - name: レザンダの街
+    - name: アルノーの街
 
 
  ####    ########    ########    ##     ## 
@@ -940,13 +974,25 @@ galdur:
 
 
 item:
-  index:
-    - ナザリアの指輪
+  unique items:
+    index:
+      - ナザリアの指輪
 
-  entry:
-    - name: ナザリアの指輪
-      owner: ルクス
+    entry:
+      - name: ナザリアの指輪
+        owner: ルクス
+        description:
+          - 
+
+  general items:
+    - name: セリカ草
+      description:
+        - 茶の原料、渋みがある
+
+    - name: ナルクの樹皮
+      description:
+        - 茶の原料、香気がある
+
+    - name: 
       description:
         - 
-
-
