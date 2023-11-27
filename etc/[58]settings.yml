@@ -293,13 +293,13 @@ character:
     - name: セレス
       characteristics:
         name:
-          formal name: 
-          nick name: 
-          popular name: 
-          origin of first name: 
-          origin of family name: 
-          origin of nick name: 
-          origin of popupar name: 
+          formal name: セレス
+          nick name: セレス
+          popular name: 銀狼姫
+          origin of first name: 思い付き
+          origin of family name: 思い付き
+          origin of nick name: 思い付き
+          origin of popupar name: 思い付き
         inherent:
           race: 
           gender: 
@@ -433,7 +433,11 @@ character:
           age: 
         physical:
           outline: |
-
+            　長身の男が従者を伴って中庭に入ってきた。
+            　｜溌剌《はつらつ》として若く見えるが｜貫禄《かんろく》は四十代を思わせる。
+            　衣服から高位の神官であることが察せられた。
+            　向かう先はルクスたちのようだ。
+            　精力を感じさせる声で話し掛けてくる。
           height: 
           weight:
           hair color:  
@@ -477,7 +481,14 @@ character:
           trauma: |
 
 
-    - name: 
+ #######     #####     ##          ###### 
+ ##         ##   ##    ##         ##      
+ #####      #######    ##         ##      
+ ##         ##   ##    ##         ##      
+ ##         ##   ##    #######     ###### 
+
+
+    - name: ファルク
       characteristics:
         name:
           formal name: 
@@ -493,7 +504,7 @@ character:
           age: 
         physical:
           outline: |
-
+            中背の｜痩躯《そうく》で、いつも女の体を｜舐《な》め回すような視線をしている
           height: 
           weight:
           hair color:  
@@ -993,6 +1004,12 @@ item:
       description:
         - 茶の原料、香気がある
 
-    - name: 
+    - name: ブロスフロウの崔淫薬
       description:
-        - 
+        - ブロスフロウの花から抽出した芳香（同じ蜜リンゴ科の蜜リンゴの香りに似ている）が強力な催淫効果をもたらす
+
+    - name: 魔法催淫薬エルセラクス
+      description:
+        - 理性を破壊する最強の崔淫薬
+
+    - name: 
