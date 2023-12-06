@@ -155,7 +155,6 @@ character:
  ##    ##   ##    ##    ####### 
 
 
-
     - name: アイリス
       characteristics:
         name:
@@ -179,7 +178,7 @@ character:
           hair style: 
           eyes: 
           3 size:
-            bust: 
+            bust: レモンほど
             west: 
             hip: 
         personality:
@@ -481,14 +480,14 @@ character:
           trauma: |
 
 
- #######     #####     ##          ###### 
- ##         ##   ##    ##         ##      
- #####      #######    ##         ##      
- ##         ##   ##    ##         ##      
- ##         ##   ##    #######     ###### 
+ #######     #####     ##         ######## 
+ ##         ##   ##    ##            ##    
+ #####      #######    ##            ##    
+ ##         ##   ##    ##            ##    
+ ##         ##   ##    #######       ##    
 
 
-    - name: ファルク
+    - name: ファルト
       characteristics:
         name:
           formal name: 
@@ -548,23 +547,31 @@ character:
           trauma: |
 
 
-    - name: 
+ #######    ##    ###    ##    ####### 
+    ###     ##    ####   ##    ##      
+   ###      ##    ## ##  ##    #####   
+  ###       ##    ##  ## ##    ##      
+ #######    ##    ##   ####    ####### 
+
+
+    - name: ザイン
       characteristics:
         name:
           formal name: 
           nick name: 
           popular name: 
-          origin of first name: 
-          origin of family name: 
-          origin of nick name: 
-          origin of popupar name: 
+          origin of first name: 思い付き
+          origin of family name: 思い付き
+          origin of nick name: 思い付き
+          origin of popupar name: 思い付き
         inherent:
           race: 
           gender: 
           age: 
         physical:
           outline: |
-
+            隣には｜巨躯《きょく》の怪人がそそり立っていた。
+            筋肉の塊で神官服の上からでも全身が隆起して見える。
           height: 
           weight:
           hair color:  
@@ -922,27 +929,38 @@ galdur:
     - 
   
   entry:
-    - name: スイーク・ウェア・リッツ
-      description:
-        - ガーネットの光が女の周囲を駆け巡る
-        - ルクスの魔法力が血液に作用している。青ざめていた女の表情に赤みが差した
-        - 造血、酸素供給、血液循環を行う魔法
+    attack:
+      - name: アイザス・フェルクロイザ
+        description:
+          - 拳大の氷のつぶてが敵をたたきのめす
 
-    - name: アル・アルス・フェリア・フェルズワース
-      description:
-        - エメラルドの輝きが腹部を包む
-        - 直接的な治癒の魔法ではない。｜膿《うみ》が出ないようにするものだ。中でも最上級を示す｜鍵言《けんげん》だった。血にぬめった手を引き抜いて傷口にあてがう
-        - 殺菌魔法
+      - name: ローグ・ロウ
+        description:
+          - 
 
-    - name: ラーズ・ウル・ラーズ・ロムスレート・レキサエニク
-      description:
-        - サファイアの｜閃光《せんこう》が｜弾《はじ》けた。ルクスが手を離すと傷は塞がっていた
-        - 怪我の治療魔法
+    healing:
+      - name: スイーク・ウェア・リッツ
+        description:
+          - 造血、酸素供給、血液循環を行う魔法
+          - ガーネットの光が女の周囲を駆け巡る
+          - ルクスの魔法力が血液に作用している。青ざめていた女の表情に赤みが差した
 
-    - name: ゼルク
-      description:
-        - 女の体が跳ねる
-        - 電気ショックの魔法
+      - name: アル・アルス・フェリア・フェルズワース
+        description:
+          - 殺菌魔法
+          - エメラルドの輝きが腹部を包む
+          - 直接的な治癒の魔法ではない。｜膿《うみ》が出ないようにするものだ。中でも最上級を示す｜鍵言《けんげん》だった。血にぬめった手を引き抜いて傷口にあてがう
+
+      - name: ラーズ・ウル・ラーズ・ロムスレート・レキサエニク
+        description:
+          - 怪我の治療魔法
+          - サファイアの｜閃光《せんこう》が｜弾《はじ》けた。ルクスが手を離すと傷は塞がっていた
+
+    etc:
+      - name: ゼルク
+        description:
+          - 女の体が跳ねる
+          - 電気ショックの魔法
 
 
  ########     ##             ###        ######     ######## 
@@ -1012,4 +1030,27 @@ item:
       description:
         - 理性を破壊する最強の崔淫薬
 
+    - name: 魔法薬ルーブレス
+      description:
+        - 飲んだ者を操り人形にする
+
     - name: 
+      description:
+        - 
+
+    - name: 
+      description:
+        - 
+
+    - name: 
+      description:
+        - 
+
+    - name: 
+      description:
+        - 
+
+    - name: 
+      description:
+        - 
+
