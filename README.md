@@ -17,6 +17,6 @@
 - thinking-notes/[58]thinking-notes-003.md:  主人公のキャラ設定
 - thinking-notes/[58]thinking-notes-004.md:  第2章の企画
 - thinking-notes/[58]thinking-notes-005.yml: 第2章のプロット
-- thinking-notes/[58]thinking-notes-006.md:  神と信仰、対立
+- thinking-notes/[58]thinking-notes-006.md:  世界観設定作業
 - thinking-notes/[58]thinking-notes-007.md:  第3章の企画
 - thinking-notes/[58]thinking-notes-008.md:  第3章のログライン
