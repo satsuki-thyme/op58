@@ -5,13 +5,13 @@
 - text/[58]002.txt: 第2章 第1話 タイトル未定
 - text/[58]003.txt: 第2章 第2話 タイトル未定
 
-### etc.
+### その他
 - etc/![58]todo.md:     すること
 - etc/[58]conf.yml:     メタ設定
 - etc/[58]settings.yml: 設定
 - etc/[58]memo.md:      メモ
 
-### thinking-notes
+### 思考ノート
 - thinking-notes/[58]thinking-notes-001.md:  主人公周辺の設定
 - thinking-notes/[58]thinking-notes-002.md:  始まりのシーン
 - thinking-notes/[58]thinking-notes-003.md:  主人公のキャラ設定
